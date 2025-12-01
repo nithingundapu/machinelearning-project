@@ -146,6 +146,22 @@ model = Sequential([
     Dense(1, activation='sigmoid')
 ])
 
+📊 3. Accuracy Comparison Chart (Markdown Version)
+CNN Accuracy Comparison
+┌───────────────────────────────────────────┐
+│ Dataset                     │ Accuracy     │
+├─────────────────────────────┼──────────────┤
+│ Original WDBC (569 samples) │   98.6%      │
+│ Synthetic WDBC (50,000)     │ 98.8–99.1%   │
+└───────────────────────────────────────────┘
+
+
+Or as a simple bullet list:
+
+Original WDBC: 98.6%
+
+Synthetic WDBC 50k: 98.8–99.1%
+
 🚀 How to Run the Project
 1️⃣ Install dependencies
 pip install -r requirements.txt

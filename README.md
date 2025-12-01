@@ -1,13 +1,12 @@
 # machinelearning-project
 #Team members
 Nithin Gundapu :700772575
+N.vasudeva : 700782257
+Gangadhar nersu: 700765662
+Sivakrishnakolli:700765428
 
 
-
-
-
-
-🧬 Breast Cancer Detection Using Machine Learning, Deep Learning & Quantum Machine Learning
+Breast Cancer Detection Using Machine Learning, Deep Learning & Quantum Machine Learning
 A Comparative Study using the Wisconsin Diagnostic Breast Cancer (WDBC) Dataset
 📌 Overview
 

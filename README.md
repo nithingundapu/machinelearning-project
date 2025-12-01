@@ -179,29 +179,4 @@ qiskit
 
 matplotlib
 
-📁 Recommended Project Structure
-📁 project/
-│
-├── data/
-│   ├── wdbc_original.csv
-│   ├── synthetic_wdbc_50k.csv
-│
-├── src/
-│   ├── ml_models.py
-│   ├── dl_cnn.py
-│   ├── qml_qsvc.py
-│   ├── qml_vqc.py
-│   ├── utils.py
-│
-├── notebooks/
-│   ├── ML_Models.ipynb
-│   ├── CNN_DL.ipynb
-│   ├── QML_Experiments.ipynb
-│
-├── results/
-│   ├── confusion_matrices/
-│   ├── metrics_summary.csv
-│
-├── README.md
-└── requirements.txt
 
